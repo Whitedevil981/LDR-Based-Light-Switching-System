@@ -1,7 +1,0 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-BT1,BatteryHolder_MYOUNG_BS-07-A1BJ001_CR2032,1,Battery_Cell,
-D1,LED_D5.0mm,1,LED,
-"Q1, Q2",GaN_Systems_GaNPX-3_5x6.6mm_Drain2.93x0.6mm,2,NPN,
-R1,R_LDR_10x8.5mm_P7.6mm_Vertical,1,LDR03,
-"R2, R3",R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,2,R,
-SW1,SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin,1,SW_DIP_x01,

@@ -13,22 +13,13 @@ This change in resistance alters the voltage in a voltage divider circuit, which
 
 LDR as light sensor
 
-NPN Transistor 
-
 LED/light bulb
 
 Resistors 
 
 Power supply (Battery)
 
-# How It Works:
-In daylight, the LDR has low resistance, so the transistor stays OFF → light/bulb is OFF.
-
-At night or in darkness, LDR resistance increases, providing a base current to the transistor.
-
-Transistor turns ON, activating the relay (or lighting up an LED/bulb).
-
-The light remains ON until daylight is detected again.
+Switch 
 
 # Applications:
 

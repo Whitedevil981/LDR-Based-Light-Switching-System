@@ -1,0 +1,9 @@
+Info: Processing symbol 'BT1:Battery:BatteryHolder_Keystone_3034_1x20mm'.
+Info: Processing symbol 'D1:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'R1:OptoDevice:R_LDR_7x6mm_P5.1mm_Vertical'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_PUSH_6mm'.
+Reconnected R1 pin 1 from Net-(Q3-C) to Net-(D1-K).
+
+
+Info: Total warnings: 0, errors: 0.
